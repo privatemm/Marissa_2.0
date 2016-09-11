@@ -312,13 +312,13 @@ section.features .feature-item i {
   }
 }
 section.cta {
-  position: relative;
+  position: absolute;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/bg-cta.jpg');
+  background-image: url('../img/aura2015.png');
   padding: 250px 0;
 }
 section.cta .cta-content {
