@@ -3,13 +3,8 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-
-
-.quote {
-    font-family: 'Alex Brush', cursive;
-}
 .heading-font {
-  font-family: 'Alex Brush', cursive;
+  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
 }
@@ -27,7 +22,7 @@ body {
   width: 100%;
 }
 body {
-  font-family: 'Alex Brush', cursive;
+  font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
 }
 a {
   -webkit-transition: all 0.35s;
@@ -301,13 +296,13 @@ section.features .feature-item i {
   }
 }
 section.cta {
-  position: absolute;
+  position: relative;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/aura2015.png');
+  background-image: url('../img/bg-cta.jpg');
   padding: 250px 0;
 }
 section.cta .cta-content {
