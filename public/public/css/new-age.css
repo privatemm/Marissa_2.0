@@ -5,22 +5,11 @@
  */
 
 
-/* #canvas-image {
-    position: absolute;
-    display: block;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-image: url("img/marmar.jpg");
-    background-position-x: 50%;
+.quote {
+    font-family: 'Alex Brush', cursive;
 }
-*/
-
 .heading-font {
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'Alex Brush', cursive;
   font-weight: 200;
   letter-spacing: 1px;
 }
@@ -38,7 +27,7 @@ body {
   width: 100%;
 }
 body {
-  font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'Alex Brush', cursive;
 }
 a {
   -webkit-transition: all 0.35s;
