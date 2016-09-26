@@ -387,6 +387,10 @@ form .row:first-child .floating-label-form-group {
   text-shadow: none;
   background: #0085A1;
 }
+
+.image-bottom {
+    vertical-align: middle;
+}
 img::selection {
   color: white;
   background: transparent;
